@@ -1,0 +1,26 @@
+.list_item{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 16px;
+    
+}
+
+.brand_name{
+    margin: 0;
+    font-size: 28px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #0a0a0a;
+    width: 120px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.indicator_value{
+    margin: 0;
+    padding: 3px;
+    background-color: #fcffc2;
+    font-weight: 500;
+    border-radius: 5px;
+}
